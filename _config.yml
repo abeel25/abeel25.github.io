@@ -33,10 +33,5 @@ collections:
 paginate: 2
 paginate_path: /blog/page:num/
 
-
-
-minima:
-  skin: dark
-
 name: abel
   
