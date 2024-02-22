@@ -6,11 +6,6 @@ theme: jekyll-theme-hacker
 
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "aqua", "dirt", "neon", "mint", "plum", "sunrise"
 
-plugins:
-  - jekyll-remote-theme 
-  - jekyll-include-cache # add this line to the plugins list if you already have one
-  - jekyll-paginate
-
 title: hola ASIR2
 
 defaults:
@@ -45,5 +40,5 @@ paginate_path: /blog/page:num/
 minima:
   skin: dark
 
-name: oscar novillo
+name: abel
   
