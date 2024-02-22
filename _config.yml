@@ -4,8 +4,6 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
 
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "aqua", "dirt", "neon", "mint", "plum", "sunrise"
-
 title: hola ASIR2
 
 defaults:

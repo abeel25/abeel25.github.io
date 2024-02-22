@@ -2,8 +2,6 @@
   title: test
   permalink: /categories/
   sidebar:
-    nav: "foo"  
-
 ---
 
 
