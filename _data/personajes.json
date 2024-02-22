@@ -1,0 +1,9 @@
+[
+    { "nombre": "Walter White", "serie": "Breaking Bad", "numcapitulo": "30" },
+    { "nombre": "Eleven", "serie": "Stranger Things", "numcapitulo": "24" },
+    { "nombre": "Grogu", "serie": "Mandalorian", "numcapitulo": "14" },
+    { "nombre": "Goku", "serie": "Dragon Ball", "numcapitulo": "156" },
+    { "nombre": "Tokyo", "serie": "La Casa de Papel", "numcapitulo": "20" },
+    { "nombre": "El profesor", "serie": "La Casa de Papel", "numcapitulo": "21" },
+    { "nombre": "Demogorgon", "serie": "Stranger Things", "numcapitulo": "11" }
+]
