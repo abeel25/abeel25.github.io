@@ -1,0 +1,49 @@
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
+
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "aqua", "dirt", "neon", "mint", "plum", "sunrise"
+
+plugins:
+  - jekyll-remote-theme 
+  - jekyll-include-cache # add this line to the plugins list if you already have one
+  - jekyll-paginate
+
+title: hola ASIR2
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+    # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+collections:
+  members:
+    output: true
+
+
+
+# número de posts por página
+paginate: 2
+paginate_path: /blog/page:num/
+
+
+
+minima:
+  skin: dark
+
+name: oscar novillo
+  
