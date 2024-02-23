@@ -3,6 +3,7 @@ title: about
 permalink: /juju
 ---
 
-# TITULO
+# Mi primera página
+**Estoy probando Github pages por primera vez**
 
 

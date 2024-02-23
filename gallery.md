@@ -2,16 +2,7 @@
 
 title: "Gallery"
 gallery:
-  - url: https://loremflickr.com/320/240
-    image_path: https://loremflickr.com/320/240?random=1
+  - url: https://pics.filmaffinity.com
+    image_path: https://pics.filmaffinity.com/game_of_thrones-293142110-large.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: https://loremflickr.com/320/240
-    image_path: https://loremflickr.com/320/240?random=2
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: https://loremflickr.com/320/240
-    image_path: https://loremflickr.com/320/240?random=3
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
----
