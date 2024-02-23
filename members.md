@@ -13,6 +13,6 @@ title: members
 {% endfor %}
 
 
-{% for persona in site.data.personas %}
-  ## {{ persona.nombre }} - {{ persona.edad }}
+{% for persona in site.data.personajes %}
+  ## {{ personajes.nombre }} - {{ personajes.edad }}
 {% endfor %}
