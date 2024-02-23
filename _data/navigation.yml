@@ -8,14 +8,8 @@ main:
         url: /child-2-page-url/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "Members"
     url: /members/
-  - title: "kiko"
-    url: /kiko/
   - title: "External Link"
     url: https://google.com
 foo:
@@ -28,10 +22,6 @@ foo:
         url: /child-2-page-url/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "Members"
     url: /members/
   - title: "kiko"
