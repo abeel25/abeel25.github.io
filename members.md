@@ -1,18 +1,17 @@
 ---
-title: members
+title: Personajes series
 
 ---
 
-# Members
+# Peronajes series
 
 
-{% for member in site.members %}
-  ## {{ member.name }} - {{ member.position }}
-  [ver]({{ member.url }}) 
-  {{ member.content | markdownify }}
+{% for personaje in data.personajes %}
+  ## {{ personaje.name }} - {{ personaje.position }}
+  {{ personaje.content | markdownify }}
 {% endfor %}
 
 
-{% for persona in site.data.personajes %}
+{% for personaje in site.data.personajes %}
   ## {{ personajes.nombre }} - {{ personajes.serie }}
 {% endfor %}
