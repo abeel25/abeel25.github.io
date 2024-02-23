@@ -14,5 +14,5 @@ title: members
 
 
 {% for persona in site.data.personajes %}
-  ## {{ personajes.nombre }} - {{ personajes.edad }}
+  ## {{ personajes.nombre }} - {{ personajes.serie }}
 {% endfor %}
