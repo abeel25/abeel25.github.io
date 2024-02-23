@@ -4,7 +4,7 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
 
-title: Primer Pagina de Abel
+title: Primera Pagina de Abel
 
 defaults:
   - scope:
